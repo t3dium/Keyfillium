@@ -1,7 +1,6 @@
 from Crypto.PublicKey import RSA
 
-#why am i using num2words? Because this script was INCREDIBLY problematic
-#for some strange reason python hates concatinating integers and string
+#why am i using num2words? Because for some strange reason python hates concatinating integers and string
 #i cant just do 1+("word"), fortunately num2word translated 1 to one for example.
 
 from num2words import num2words
