@@ -1,5 +1,4 @@
-# Keyfillium
-**This is a work in progress, the code has not yet been made**
+# Keyfillium - v1.0
 
 Generate thousands of fake rsa/openssh/etc keyfiles, security by obscurity: the right way.
 
@@ -9,7 +8,7 @@ A simple tool to generate a custom amount of fake ssh/rsa/any keyfile of your ch
 
 **Why?**
 
-Its incredibly useful in scenarios where your device is compromised, the cloud provider is compromised etc. 
+Its useful in scenarios where your device is compromised, the cloud provider is compromised etc. 
 An attacker wouldnt be able to identify the right combination of keyfiles within an endless amount.
 
 **But... storage?**
